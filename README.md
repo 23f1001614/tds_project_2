@@ -384,8 +384,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Author**: Shaikh Md Khasim Basith Nawaz
+**Author**: Anurag
 **Course**: Tools in Data Science (TDS)
 **Institution**: IIT Madras
 
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/23f3002766/tds-geniesolver).
+For questions or issues, please open an issue on the [GitHub repository]([https://github.com/23f1001614/tds_project_2]).
