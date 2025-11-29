@@ -84,7 +84,7 @@ The project uses a **LangGraph state machine** architecture with the following c
 ## 📁 Project Structure
 
 ```
-GENIE-SOLVER-TDS-Project-2/
+LLM-Analysis-TDS-Project-2/
 ├── agent.py                    # LangGraph state machine & orchestration
 ├── main.py                     # FastAPI server with /solve endpoint
 ├── pyproject.toml              # Project dependencies & configuration
@@ -112,7 +112,7 @@ GENIE-SOLVER-TDS-Project-2/
 
 ```bash
 git clone https://github.com/23f3002766/tds-geniesolver.git
-cd tds-geniesolver
+cd LLM-Analysis-TDS-Project-2
 ```
 
 ### Step 2: Install Dependencies
@@ -384,7 +384,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-**Author**: Shaikh MD Khasim Basith Nawaz
+**Author**: Shaikh Md Khasim Basith Nawaz
 **Course**: Tools in Data Science (TDS)
 **Institution**: IIT Madras
 
